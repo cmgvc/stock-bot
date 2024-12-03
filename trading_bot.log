@@ -1,0 +1,651 @@
+2024-12-03 11:03:45,069 - 
+1 Failed download:
+2024-12-03 11:03:45,069 - ['AAPL']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:45,073 - Error executing trade for AAPL: -1
+2024-12-03 11:03:45,277 - 
+1 Failed download:
+2024-12-03 11:03:45,277 - ['MSFT']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:45,281 - Error executing trade for MSFT: -1
+2024-12-03 11:03:45,502 - 
+1 Failed download:
+2024-12-03 11:03:45,502 - ['GOOGL']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:45,507 - Error executing trade for GOOGL: -1
+2024-12-03 11:03:45,751 - 
+1 Failed download:
+2024-12-03 11:03:45,752 - ['AMZN']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:45,756 - Error executing trade for AMZN: -1
+2024-12-03 11:03:45,981 - 
+1 Failed download:
+2024-12-03 11:03:45,981 - ['TSLA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:45,987 - Error executing trade for TSLA: -1
+2024-12-03 11:03:46,204 - 
+1 Failed download:
+2024-12-03 11:03:46,205 - ['META']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:46,209 - Error executing trade for META: -1
+2024-12-03 11:03:46,443 - 
+1 Failed download:
+2024-12-03 11:03:46,443 - ['NVDA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:46,449 - Error executing trade for NVDA: -1
+2024-12-03 11:03:46,658 - 
+1 Failed download:
+2024-12-03 11:03:46,658 - ['AMD']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:46,663 - Error executing trade for AMD: -1
+2024-12-03 11:03:46,849 - 
+1 Failed download:
+2024-12-03 11:03:46,850 - ['SPY']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:46,854 - Error executing trade for SPY: -1
+2024-12-03 11:03:47,024 - 
+1 Failed download:
+2024-12-03 11:03:47,024 - ['QQQ']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:47,031 - Error executing trade for QQQ: -1
+2024-12-03 11:03:47,250 - 
+1 Failed download:
+2024-12-03 11:03:47,250 - ['BABA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:47,252 - Error executing trade for BABA: -1
+2024-12-03 11:03:47,453 - 
+1 Failed download:
+2024-12-03 11:03:47,453 - ['NFLX']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:47,457 - Error executing trade for NFLX: -1
+2024-12-03 11:03:47,824 - 
+1 Failed download:
+2024-12-03 11:03:47,824 - ['DIS']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:47,828 - Error executing trade for DIS: -1
+2024-12-03 11:03:48,064 - 
+1 Failed download:
+2024-12-03 11:03:48,064 - ['V']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:48,070 - Error executing trade for V: -1
+2024-12-03 11:03:48,287 - 
+1 Failed download:
+2024-12-03 11:03:48,287 - ['PYPL']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:48,291 - Error executing trade for PYPL: -1
+2024-12-03 11:03:48,637 - 
+1 Failed download:
+2024-12-03 11:03:48,637 - ['BA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:48,642 - Error executing trade for BA: -1
+2024-12-03 11:03:48,864 - 
+1 Failed download:
+2024-12-03 11:03:48,864 - ['CSCO']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:48,869 - Error executing trade for CSCO: -1
+2024-12-03 11:03:49,128 - 
+1 Failed download:
+2024-12-03 11:03:49,128 - ['GS']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:49,130 - Error executing trade for GS: -1
+2024-12-03 11:03:49,421 - 
+1 Failed download:
+2024-12-03 11:03:49,421 - ['JPM']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:49,424 - Error executing trade for JPM: -1
+2024-12-03 11:03:49,732 - 
+1 Failed download:
+2024-12-03 11:03:49,732 - ['WMT']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:49,736 - Error executing trade for WMT: -1
+2024-12-03 11:03:50,038 - 
+1 Failed download:
+2024-12-03 11:03:50,038 - ['MCD']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:50,041 - Error executing trade for MCD: -1
+2024-12-03 11:03:50,300 - 
+1 Failed download:
+2024-12-03 11:03:50,300 - ['UNH']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:50,305 - Error executing trade for UNH: -1
+2024-12-03 11:03:50,648 - 
+1 Failed download:
+2024-12-03 11:03:50,648 - ['CVX']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:50,653 - Error executing trade for CVX: -1
+2024-12-03 11:03:50,990 - 
+1 Failed download:
+2024-12-03 11:03:50,990 - ['XOM']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:50,995 - Error executing trade for XOM: -1
+2024-12-03 11:03:51,064 - 
+1 Failed download:
+2024-12-03 11:03:51,064 - ['GS']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:51,067 - Error executing trade for GS: -1
+2024-12-03 11:03:51,315 - 
+1 Failed download:
+2024-12-03 11:03:51,315 - ['INTC']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:51,319 - Error executing trade for INTC: -1
+2024-12-03 11:03:51,602 - 
+1 Failed download:
+2024-12-03 11:03:51,602 - ['ORCL']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:51,607 - Error executing trade for ORCL: -1
+2024-12-03 11:03:51,832 - 
+1 Failed download:
+2024-12-03 11:03:51,832 - ['ZM']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:51,836 - Error executing trade for ZM: -1
+2024-12-03 11:03:52,054 - 
+1 Failed download:
+2024-12-03 11:03:52,054 - ['SNAP']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:03:52,060 - Error executing trade for SNAP: -1
+2024-12-03 11:03:54,644 - 
+1 Failed download:
+2024-12-03 11:03:54,644 - ['TWTR']: YFPricesMissingError('$%ticker%: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")')
+2024-12-03 11:06:19,790 - 
+1 Failed download:
+2024-12-03 11:06:19,791 - ['AAPL']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:19,793 - Error executing trade for AAPL: -1
+2024-12-03 11:06:19,953 - 
+1 Failed download:
+2024-12-03 11:06:19,953 - ['MSFT']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:19,956 - Error executing trade for MSFT: -1
+2024-12-03 11:06:20,079 - 
+1 Failed download:
+2024-12-03 11:06:20,079 - ['GOOGL']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:20,083 - Error executing trade for GOOGL: -1
+2024-12-03 11:06:20,256 - 
+1 Failed download:
+2024-12-03 11:06:20,256 - ['AMZN']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:20,258 - Error executing trade for AMZN: -1
+2024-12-03 11:06:20,393 - 
+1 Failed download:
+2024-12-03 11:06:20,393 - ['TSLA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:20,396 - Error executing trade for TSLA: -1
+2024-12-03 11:06:20,554 - 
+1 Failed download:
+2024-12-03 11:06:20,555 - ['META']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:20,560 - Error executing trade for META: -1
+2024-12-03 11:06:20,732 - 
+1 Failed download:
+2024-12-03 11:06:20,732 - ['NVDA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:20,736 - Error executing trade for NVDA: -1
+2024-12-03 11:06:20,911 - 
+1 Failed download:
+2024-12-03 11:06:20,911 - ['AMD']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:20,917 - Error executing trade for AMD: -1
+2024-12-03 11:06:21,095 - 
+1 Failed download:
+2024-12-03 11:06:21,095 - ['SPY']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:21,100 - Error executing trade for SPY: -1
+2024-12-03 11:06:21,273 - 
+1 Failed download:
+2024-12-03 11:06:21,274 - ['QQQ']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:21,279 - Error executing trade for QQQ: -1
+2024-12-03 11:06:21,454 - 
+1 Failed download:
+2024-12-03 11:06:21,455 - ['BABA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:21,459 - Error executing trade for BABA: -1
+2024-12-03 11:06:21,644 - 
+1 Failed download:
+2024-12-03 11:06:21,644 - ['NFLX']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:21,648 - Error executing trade for NFLX: -1
+2024-12-03 11:06:21,844 - 
+1 Failed download:
+2024-12-03 11:06:21,845 - ['DIS']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:21,850 - Error executing trade for DIS: -1
+2024-12-03 11:06:22,004 - 
+1 Failed download:
+2024-12-03 11:06:22,004 - ['V']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:22,009 - Error executing trade for V: -1
+2024-12-03 11:06:22,152 - 
+1 Failed download:
+2024-12-03 11:06:22,152 - ['PYPL']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:22,157 - Error executing trade for PYPL: -1
+2024-12-03 11:06:22,339 - 
+1 Failed download:
+2024-12-03 11:06:22,340 - ['BA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:22,341 - Error executing trade for BA: -1
+2024-12-03 11:06:22,493 - 
+1 Failed download:
+2024-12-03 11:06:22,493 - ['CSCO']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:22,496 - Error executing trade for CSCO: -1
+2024-12-03 11:06:22,684 - 
+1 Failed download:
+2024-12-03 11:06:22,685 - ['GS']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:22,690 - Error executing trade for GS: -1
+2024-12-03 11:06:22,881 - 
+1 Failed download:
+2024-12-03 11:06:22,881 - ['JPM']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:22,886 - Error executing trade for JPM: -1
+2024-12-03 11:06:23,088 - 
+1 Failed download:
+2024-12-03 11:06:23,088 - ['WMT']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:23,096 - Error executing trade for WMT: -1
+2024-12-03 11:06:23,272 - 
+1 Failed download:
+2024-12-03 11:06:23,272 - ['MCD']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:23,277 - Error executing trade for MCD: -1
+2024-12-03 11:06:23,477 - 
+1 Failed download:
+2024-12-03 11:06:23,477 - ['UNH']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:23,480 - Error executing trade for UNH: -1
+2024-12-03 11:06:23,740 - 
+1 Failed download:
+2024-12-03 11:06:23,740 - ['CVX']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:23,744 - Error executing trade for CVX: -1
+2024-12-03 11:06:23,944 - 
+1 Failed download:
+2024-12-03 11:06:23,945 - ['XOM']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:23,951 - Error executing trade for XOM: -1
+2024-12-03 11:06:24,023 - 
+1 Failed download:
+2024-12-03 11:06:24,023 - ['GS']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:24,027 - Error executing trade for GS: -1
+2024-12-03 11:06:24,208 - 
+1 Failed download:
+2024-12-03 11:06:24,208 - ['INTC']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:24,215 - Error executing trade for INTC: -1
+2024-12-03 11:06:24,373 - 
+1 Failed download:
+2024-12-03 11:06:24,373 - ['ORCL']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:24,375 - Error executing trade for ORCL: -1
+2024-12-03 11:06:24,501 - 
+1 Failed download:
+2024-12-03 11:06:24,501 - ['ZM']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:24,503 - Error executing trade for ZM: -1
+2024-12-03 11:06:24,654 - 
+1 Failed download:
+2024-12-03 11:06:24,654 - ['SNAP']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:06:24,659 - Error executing trade for SNAP: -1
+2024-12-03 11:06:26,472 - 
+1 Failed download:
+2024-12-03 11:06:26,472 - ['TWTR']: YFPricesMissingError('$%ticker%: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")')
+2024-12-03 11:08:17,055 - 
+1 Failed download:
+2024-12-03 11:08:17,056 - ['AAPL']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:17,058 - Error executing trade for AAPL: -1
+2024-12-03 11:08:17,233 - 
+1 Failed download:
+2024-12-03 11:08:17,233 - ['MSFT']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:17,237 - Error executing trade for MSFT: -1
+2024-12-03 11:08:17,416 - 
+1 Failed download:
+2024-12-03 11:08:17,416 - ['GOOGL']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:17,421 - Error executing trade for GOOGL: -1
+2024-12-03 11:08:17,571 - 
+1 Failed download:
+2024-12-03 11:08:17,571 - ['AMZN']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:17,575 - Error executing trade for AMZN: -1
+2024-12-03 11:08:17,715 - 
+1 Failed download:
+2024-12-03 11:08:17,715 - ['TSLA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:17,719 - Error executing trade for TSLA: -1
+2024-12-03 11:08:17,880 - 
+1 Failed download:
+2024-12-03 11:08:17,880 - ['META']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:17,882 - Error executing trade for META: -1
+2024-12-03 11:08:18,018 - 
+1 Failed download:
+2024-12-03 11:08:18,018 - ['NVDA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:18,021 - Error executing trade for NVDA: -1
+2024-12-03 11:08:18,170 - 
+1 Failed download:
+2024-12-03 11:08:18,170 - ['AMD']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:18,174 - Error executing trade for AMD: -1
+2024-12-03 11:08:18,361 - 
+1 Failed download:
+2024-12-03 11:08:18,361 - ['SPY']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:18,366 - Error executing trade for SPY: -1
+2024-12-03 11:08:18,566 - 
+1 Failed download:
+2024-12-03 11:08:18,566 - ['QQQ']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:18,571 - Error executing trade for QQQ: -1
+2024-12-03 11:08:18,722 - 
+1 Failed download:
+2024-12-03 11:08:18,723 - ['BABA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:18,727 - Error executing trade for BABA: -1
+2024-12-03 11:08:18,892 - 
+1 Failed download:
+2024-12-03 11:08:18,892 - ['NFLX']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:18,896 - Error executing trade for NFLX: -1
+2024-12-03 11:08:19,088 - 
+1 Failed download:
+2024-12-03 11:08:19,088 - ['DIS']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:19,094 - Error executing trade for DIS: -1
+2024-12-03 11:08:19,277 - 
+1 Failed download:
+2024-12-03 11:08:19,277 - ['V']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:19,282 - Error executing trade for V: -1
+2024-12-03 11:08:19,443 - 
+1 Failed download:
+2024-12-03 11:08:19,444 - ['PYPL']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:19,448 - Error executing trade for PYPL: -1
+2024-12-03 11:08:19,699 - 
+1 Failed download:
+2024-12-03 11:08:19,699 - ['BA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:19,705 - Error executing trade for BA: -1
+2024-12-03 11:08:19,921 - 
+1 Failed download:
+2024-12-03 11:08:19,921 - ['CSCO']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:19,926 - Error executing trade for CSCO: -1
+2024-12-03 11:08:20,102 - 
+1 Failed download:
+2024-12-03 11:08:20,102 - ['GS']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:20,106 - Error executing trade for GS: -1
+2024-12-03 11:08:20,311 - 
+1 Failed download:
+2024-12-03 11:08:20,312 - ['JPM']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:20,317 - Error executing trade for JPM: -1
+2024-12-03 11:08:20,560 - 
+1 Failed download:
+2024-12-03 11:08:20,560 - ['WMT']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:20,565 - Error executing trade for WMT: -1
+2024-12-03 11:08:20,817 - 
+1 Failed download:
+2024-12-03 11:08:20,817 - ['MCD']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:20,820 - Error executing trade for MCD: -1
+2024-12-03 11:08:20,995 - 
+1 Failed download:
+2024-12-03 11:08:20,995 - ['UNH']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:21,000 - Error executing trade for UNH: -1
+2024-12-03 11:08:21,198 - 
+1 Failed download:
+2024-12-03 11:08:21,198 - ['CVX']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:21,204 - Error executing trade for CVX: -1
+2024-12-03 11:08:21,411 - 
+1 Failed download:
+2024-12-03 11:08:21,412 - ['XOM']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:21,415 - Error executing trade for XOM: -1
+2024-12-03 11:08:21,487 - 
+1 Failed download:
+2024-12-03 11:08:21,487 - ['GS']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:21,489 - Error executing trade for GS: -1
+2024-12-03 11:08:21,662 - 
+1 Failed download:
+2024-12-03 11:08:21,663 - ['INTC']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:21,668 - Error executing trade for INTC: -1
+2024-12-03 11:08:21,838 - 
+1 Failed download:
+2024-12-03 11:08:21,838 - ['ORCL']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:21,842 - Error executing trade for ORCL: -1
+2024-12-03 11:08:21,984 - 
+1 Failed download:
+2024-12-03 11:08:21,985 - ['ZM']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:21,989 - Error executing trade for ZM: -1
+2024-12-03 11:08:22,150 - 
+1 Failed download:
+2024-12-03 11:08:22,150 - ['SNAP']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:08:22,153 - Error executing trade for SNAP: -1
+2024-12-03 11:08:23,728 - 
+1 Failed download:
+2024-12-03 11:08:23,728 - ['TWTR']: YFPricesMissingError('$%ticker%: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")')
+2024-12-03 11:10:03,929 - 
+1 Failed download:
+2024-12-03 11:10:03,929 - ['AAPL']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:03,933 - Error executing trade for AAPL: -1
+2024-12-03 11:10:04,095 - 
+1 Failed download:
+2024-12-03 11:10:04,095 - ['MSFT']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:04,099 - Error executing trade for MSFT: -1
+2024-12-03 11:10:04,253 - 
+1 Failed download:
+2024-12-03 11:10:04,253 - ['GOOGL']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:04,257 - Error executing trade for GOOGL: -1
+2024-12-03 11:10:04,430 - 
+1 Failed download:
+2024-12-03 11:10:04,431 - ['AMZN']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:04,436 - Error executing trade for AMZN: -1
+2024-12-03 11:10:04,617 - 
+1 Failed download:
+2024-12-03 11:10:04,617 - ['TSLA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:04,622 - Error executing trade for TSLA: -1
+2024-12-03 11:10:04,771 - 
+1 Failed download:
+2024-12-03 11:10:04,771 - ['META']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:04,775 - Error executing trade for META: -1
+2024-12-03 11:10:04,931 - 
+1 Failed download:
+2024-12-03 11:10:04,931 - ['NVDA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:04,936 - Error executing trade for NVDA: -1
+2024-12-03 11:10:05,102 - 
+1 Failed download:
+2024-12-03 11:10:05,102 - ['AMD']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:05,107 - Error executing trade for AMD: -1
+2024-12-03 11:10:05,345 - 
+1 Failed download:
+2024-12-03 11:10:05,345 - ['SPY']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:05,348 - Error executing trade for SPY: -1
+2024-12-03 11:10:05,542 - 
+1 Failed download:
+2024-12-03 11:10:05,543 - ['QQQ']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:05,558 - Error executing trade for QQQ: -1
+2024-12-03 11:10:05,789 - 
+1 Failed download:
+2024-12-03 11:10:05,789 - ['BABA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:05,794 - Error executing trade for BABA: -1
+2024-12-03 11:10:05,952 - 
+1 Failed download:
+2024-12-03 11:10:05,953 - ['NFLX']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:05,956 - Error executing trade for NFLX: -1
+2024-12-03 11:10:06,167 - 
+1 Failed download:
+2024-12-03 11:10:06,167 - ['DIS']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:06,171 - Error executing trade for DIS: -1
+2024-12-03 11:10:06,430 - 
+1 Failed download:
+2024-12-03 11:10:06,430 - ['V']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:06,438 - Error executing trade for V: -1
+2024-12-03 11:10:06,585 - 
+1 Failed download:
+2024-12-03 11:10:06,585 - ['PYPL']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:06,591 - Error executing trade for PYPL: -1
+2024-12-03 11:10:06,805 - 
+1 Failed download:
+2024-12-03 11:10:06,805 - ['BA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:06,812 - Error executing trade for BA: -1
+2024-12-03 11:10:06,997 - 
+1 Failed download:
+2024-12-03 11:10:06,998 - ['CSCO']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:07,001 - Error executing trade for CSCO: -1
+2024-12-03 11:10:07,176 - 
+1 Failed download:
+2024-12-03 11:10:07,176 - ['GS']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:07,181 - Error executing trade for GS: -1
+2024-12-03 11:10:07,392 - 
+1 Failed download:
+2024-12-03 11:10:07,392 - ['JPM']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:07,395 - Error executing trade for JPM: -1
+2024-12-03 11:10:07,584 - 
+1 Failed download:
+2024-12-03 11:10:07,584 - ['WMT']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:07,588 - Error executing trade for WMT: -1
+2024-12-03 11:10:07,784 - 
+1 Failed download:
+2024-12-03 11:10:07,785 - ['MCD']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:07,791 - Error executing trade for MCD: -1
+2024-12-03 11:10:08,010 - 
+1 Failed download:
+2024-12-03 11:10:08,010 - ['UNH']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:08,015 - Error executing trade for UNH: -1
+2024-12-03 11:10:08,226 - 
+1 Failed download:
+2024-12-03 11:10:08,226 - ['CVX']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:08,232 - Error executing trade for CVX: -1
+2024-12-03 11:10:08,452 - 
+1 Failed download:
+2024-12-03 11:10:08,452 - ['XOM']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:08,457 - Error executing trade for XOM: -1
+2024-12-03 11:10:08,525 - 
+1 Failed download:
+2024-12-03 11:10:08,526 - ['GS']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:08,530 - Error executing trade for GS: -1
+2024-12-03 11:10:08,745 - 
+1 Failed download:
+2024-12-03 11:10:08,745 - ['INTC']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:08,749 - Error executing trade for INTC: -1
+2024-12-03 11:10:09,051 - 
+1 Failed download:
+2024-12-03 11:10:09,051 - ['ORCL']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:09,056 - Error executing trade for ORCL: -1
+2024-12-03 11:10:09,228 - 
+1 Failed download:
+2024-12-03 11:10:09,228 - ['ZM']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:09,232 - Error executing trade for ZM: -1
+2024-12-03 11:10:09,383 - 
+1 Failed download:
+2024-12-03 11:10:09,383 - ['SNAP']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:10:09,385 - Error executing trade for SNAP: -1
+2024-12-03 11:10:11,114 - 
+1 Failed download:
+2024-12-03 11:10:11,114 - ['TWTR']: YFPricesMissingError('$%ticker%: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")')
+2024-12-03 11:11:06,809 - 
+1 Failed download:
+2024-12-03 11:11:06,810 - ['AAPL']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:06,813 - Error executing trade for AAPL: -1
+2024-12-03 11:11:06,978 - 
+1 Failed download:
+2024-12-03 11:11:06,978 - ['MSFT']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:06,980 - Error executing trade for MSFT: -1
+2024-12-03 11:11:07,139 - 
+1 Failed download:
+2024-12-03 11:11:07,139 - ['GOOGL']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:07,141 - Error executing trade for GOOGL: -1
+2024-12-03 11:11:07,269 - 
+1 Failed download:
+2024-12-03 11:11:07,269 - ['AMZN']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:07,273 - Error executing trade for AMZN: -1
+2024-12-03 11:11:07,422 - 
+1 Failed download:
+2024-12-03 11:11:07,423 - ['TSLA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:07,428 - Error executing trade for TSLA: -1
+2024-12-03 11:11:07,615 - 
+1 Failed download:
+2024-12-03 11:11:07,615 - ['META']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:07,619 - Error executing trade for META: -1
+2024-12-03 11:11:07,791 - 
+1 Failed download:
+2024-12-03 11:11:07,791 - ['NVDA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:07,796 - Error executing trade for NVDA: -1
+2024-12-03 11:11:07,939 - 
+1 Failed download:
+2024-12-03 11:11:07,939 - ['AMD']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:07,943 - Error executing trade for AMD: -1
+2024-12-03 11:11:08,229 - 
+1 Failed download:
+2024-12-03 11:11:08,229 - ['SPY']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:08,235 - Error executing trade for SPY: -1
+2024-12-03 11:11:08,423 - 
+1 Failed download:
+2024-12-03 11:11:08,423 - ['QQQ']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:08,428 - Error executing trade for QQQ: -1
+2024-12-03 11:11:08,735 - 
+1 Failed download:
+2024-12-03 11:11:08,735 - ['BABA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:08,741 - Error executing trade for BABA: -1
+2024-12-03 11:11:08,907 - 
+1 Failed download:
+2024-12-03 11:11:08,907 - ['NFLX']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:08,914 - Error executing trade for NFLX: -1
+2024-12-03 11:11:09,162 - 
+1 Failed download:
+2024-12-03 11:11:09,162 - ['DIS']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:09,166 - Error executing trade for DIS: -1
+2024-12-03 11:11:09,335 - 
+1 Failed download:
+2024-12-03 11:11:09,335 - ['V']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:09,339 - Error executing trade for V: -1
+2024-12-03 11:11:09,544 - 
+1 Failed download:
+2024-12-03 11:11:09,545 - ['PYPL']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:09,550 - Error executing trade for PYPL: -1
+2024-12-03 11:11:09,848 - 
+1 Failed download:
+2024-12-03 11:11:09,848 - ['BA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:09,854 - Error executing trade for BA: -1
+2024-12-03 11:11:10,014 - 
+1 Failed download:
+2024-12-03 11:11:10,015 - ['CSCO']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:10,018 - Error executing trade for CSCO: -1
+2024-12-03 11:11:10,191 - 
+1 Failed download:
+2024-12-03 11:11:10,191 - ['GS']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:10,195 - Error executing trade for GS: -1
+2024-12-03 11:11:10,400 - 
+1 Failed download:
+2024-12-03 11:11:10,400 - ['JPM']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:10,404 - Error executing trade for JPM: -1
+2024-12-03 11:11:10,600 - 
+1 Failed download:
+2024-12-03 11:11:10,600 - ['WMT']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:10,604 - Error executing trade for WMT: -1
+2024-12-03 11:11:10,791 - 
+1 Failed download:
+2024-12-03 11:11:10,792 - ['MCD']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:10,796 - Error executing trade for MCD: -1
+2024-12-03 11:11:10,981 - 
+1 Failed download:
+2024-12-03 11:11:10,982 - ['UNH']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:10,986 - Error executing trade for UNH: -1
+2024-12-03 11:11:11,205 - 
+1 Failed download:
+2024-12-03 11:11:11,205 - ['CVX']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:11,208 - Error executing trade for CVX: -1
+2024-12-03 11:11:11,413 - 
+1 Failed download:
+2024-12-03 11:11:11,413 - ['XOM']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:11,417 - Error executing trade for XOM: -1
+2024-12-03 11:11:11,490 - 
+1 Failed download:
+2024-12-03 11:11:11,490 - ['GS']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:11,492 - Error executing trade for GS: -1
+2024-12-03 11:11:11,661 - 
+1 Failed download:
+2024-12-03 11:11:11,661 - ['INTC']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:11,666 - Error executing trade for INTC: -1
+2024-12-03 11:11:11,833 - 
+1 Failed download:
+2024-12-03 11:11:11,833 - ['ORCL']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:11,838 - Error executing trade for ORCL: -1
+2024-12-03 11:11:11,999 - 
+1 Failed download:
+2024-12-03 11:11:12,000 - ['ZM']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:12,009 - Error executing trade for ZM: -1
+2024-12-03 11:11:12,164 - 
+1 Failed download:
+2024-12-03 11:11:12,164 - ['SNAP']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:12,168 - Error executing trade for SNAP: -1
+2024-12-03 11:11:13,997 - 
+1 Failed download:
+2024-12-03 11:11:13,997 - ['TWTR']: YFPricesMissingError('$%ticker%: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")')
+2024-12-03 11:11:14,232 - 
+1 Failed download:
+2024-12-03 11:11:14,232 - ['SQ']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:14,237 - Error executing trade for SQ: -1
+2024-12-03 11:11:14,579 - 
+1 Failed download:
+2024-12-03 11:11:14,580 - ['PFE']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:14,587 - Error executing trade for PFE: -1
+2024-12-03 11:11:14,790 - 
+1 Failed download:
+2024-12-03 11:11:14,790 - ['MRNA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:14,794 - Error executing trade for MRNA: -1
+2024-12-03 11:11:15,144 - 
+1 Failed download:
+2024-12-03 11:11:15,144 - ['KO']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:15,149 - Error executing trade for KO: -1
+2024-12-03 11:11:15,454 - 
+1 Failed download:
+2024-12-03 11:11:15,455 - ['PEP']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:15,458 - Error executing trade for PEP: -1
+2024-12-03 11:11:15,683 - 
+1 Failed download:
+2024-12-03 11:11:15,683 - ['INTU']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:15,688 - Error executing trade for INTU: -1
+2024-12-03 11:11:16,035 - 
+1 Failed download:
+2024-12-03 11:11:16,036 - ['LMT']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:16,040 - Error executing trade for LMT: -1
+2024-12-03 11:11:16,376 - 
+1 Failed download:
+2024-12-03 11:11:16,376 - ['RTX']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:16,381 - Error executing trade for RTX: -1
+2024-12-03 11:11:16,459 - 
+1 Failed download:
+2024-12-03 11:11:16,459 - ['BA']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:16,468 - Error executing trade for BA: -1
+2024-12-03 11:11:16,764 - 
+1 Failed download:
+2024-12-03 11:11:16,764 - ['T']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:16,769 - Error executing trade for T: -1
+2024-12-03 11:11:17,100 - 
+1 Failed download:
+2024-12-03 11:11:17,100 - ['VZ']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:17,105 - Error executing trade for VZ: -1
+2024-12-03 11:11:17,448 - 
+1 Failed download:
+2024-12-03 11:11:17,448 - ['JNJ']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:17,450 - Error executing trade for JNJ: -1
+2024-12-03 11:11:17,739 - 
+1 Failed download:
+2024-12-03 11:11:17,739 - ['ABT']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:17,745 - Error executing trade for ABT: -1
+2024-12-03 11:11:18,018 - 
+1 Failed download:
+2024-12-03 11:11:18,018 - ['NKE']: YFInvalidPeriodError("%ticker%: Period '14d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']")
+2024-12-03 11:11:18,023 - Error executing trade for NKE: -1
